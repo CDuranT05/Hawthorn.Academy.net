@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hawthorn.Academy.net.props" />
+</Project>

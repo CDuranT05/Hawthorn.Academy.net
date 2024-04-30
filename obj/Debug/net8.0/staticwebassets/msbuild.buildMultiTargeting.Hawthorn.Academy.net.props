@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hawthorn.Academy.net.props" />
+</Project>
