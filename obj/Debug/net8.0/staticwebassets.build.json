@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2kgGJtP++zmHyKPNdO93Qjgxif6Ayv/IE7Qp44PCfrU=",
+  "Hash": "3/DNrqgEc15GtWmzk7JFp8tveFkd55RskHx/y3FKz0w=",
   "Source": "Hawthorn.Academy.net",
   "BasePath": "_content/Hawthorn.Academy.net",
   "Mode": "Default",
@@ -1212,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\clau\\Desktop\\mis repositorios\\Hawthorn.Academy.net\\wwwroot\\panda_soft.jpg",
+      "SourceId": "Hawthorn.Academy.net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\clau\\Desktop\\mis repositorios\\Hawthorn.Academy.net\\wwwroot\\",
+      "BasePath": "_content/Hawthorn.Academy.net",
+      "RelativePath": "panda_soft.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\panda_soft.jpg"
     }
   ]
 }

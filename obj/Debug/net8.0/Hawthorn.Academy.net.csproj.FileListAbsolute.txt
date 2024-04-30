@@ -28,3 +28,4 @@ C:\Users\clau\Desktop\mis repositorios\Hawthorn.Academy.net\obj\Debug\net8.0\ref
 C:\Users\clau\Desktop\mis repositorios\Hawthorn.Academy.net\obj\Debug\net8.0\Hawthorn.Academy.net.pdb
 C:\Users\clau\Desktop\mis repositorios\Hawthorn.Academy.net\obj\Debug\net8.0\Hawthorn.Academy.net.genruntimeconfig.cache
 C:\Users\clau\Desktop\mis repositorios\Hawthorn.Academy.net\obj\Debug\net8.0\ref\Hawthorn.Academy.net.dll
+C:\Users\clau\Desktop\mis repositorios\Hawthorn.Academy.net\obj\Debug\net8.0\Hawthorn.Academy.net.sourcelink.json

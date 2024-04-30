@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hawthorn.Academy.net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e04cf72aee4c89c07925b91091de59d7ca1de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hawthorn.Academy.net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hawthorn.Academy.net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

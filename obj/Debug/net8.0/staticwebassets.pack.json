@@ -249,6 +249,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\clau\\Desktop\\mis repositorios\\Hawthorn.Academy.net\\wwwroot\\panda_soft.jpg",
+      "PackagePath": "staticwebassets\\panda_soft.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hawthorn.Academy.net.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
